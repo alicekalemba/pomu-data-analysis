@@ -1,0 +1,125 @@
+Customer Name,uid,amount,type,reason,date
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,416918.31,Credit,Refund,2020-11-27
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,926431.17,Credit,Refund,2021-12-06
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,321147.14,Debit,Sale,2021-03-17
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,145512.16,Credit,Miscellaneous,2020-12-06
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,303000.63,Debit,Sale,2022-01-12
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,720236.6,Debit,Miscellaneous,2023-09-07
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,633629.24,Credit,Refund,2021-08-15
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,752819.99,Credit,Sale,2023-09-12
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,28738.41,Credit,Purchase,2021-05-16
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,935253.75,Debit,Operating Expenses,2021-03-03
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,50222.46,Debit,Operating Expenses,2022-07-01
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,311284.64,Debit,Purchase,2023-08-08
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,836296.2,Debit,Purchase,2023-06-10
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,956371.24,Credit,Purchase,2022-03-14
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,284328.24,Debit,Purchase,2023-04-13
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,356578.36,Debit,Sale,2023-04-27
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,9713.25,Debit,Refund,2021-02-19
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,870176.0,Credit,Purchase,2022-10-25
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,129325.89,Credit,Purchase,2020-11-09
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,671822.62,Credit,Operating Expenses,2021-10-12
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,808216.14,Debit,Purchase,2022-01-05
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,610769.88,Debit,Sale,2023-01-03
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,737515.4,Credit,Purchase,2020-10-31
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,661974.96,Debit,Purchase,2022-08-25
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,798274.21,Credit,Purchase,2023-02-04
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,414454.53,Debit,Refund,2023-06-29
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,77008.61,Credit,Miscellaneous,2022-10-04
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,329621.05,Credit,Miscellaneous,2022-01-11
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,423097.71,Credit,Purchase,2021-11-28
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,620469.52,Credit,Miscellaneous,2021-11-06
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,964891.04,Debit,Purchase,2021-07-19
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,987949.29,Debit,Miscellaneous,2023-04-13
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,14315.88,Debit,Sale,2021-04-28
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,957343.58,Credit,Sale,2021-10-21
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,993601.66,Credit,Sale,2021-12-16
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,690951.66,Credit,Operating Expenses,2023-04-09
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,561090.33,Debit,Miscellaneous,2021-10-05
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,193491.64,Debit,Purchase,2022-01-10
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,767925.28,Credit,Purchase,2023-03-02
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,762078.27,Credit,Refund,2021-05-31
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,562159.66,Debit,Miscellaneous,2022-08-18
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,348189.48,Debit,Sale,2022-12-29
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,161479.83,Debit,Purchase,2021-10-07
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,656917.33,Credit,Sale,2021-08-24
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,312525.36,Debit,Purchase,2022-04-23
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,155348.28,Credit,Sale,2021-06-21
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,607711.78,Credit,Miscellaneous,2020-12-15
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,636302.69,Credit,Sale,2021-10-08
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,462182.16,Debit,Operating Expenses,2021-04-30
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,919305.54,Debit,Sale,2021-01-28
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,496323.44,Debit,Sale,2023-02-15
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,899794.86,Credit,Purchase,2021-10-12
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,569277.27,Debit,Purchase,2020-12-18
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,140584.48,Debit,Purchase,2020-11-29
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,318555.09,Debit,Refund,2022-02-01
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,396285.89,Debit,Miscellaneous,2022-09-25
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,375174.95,Debit,Purchase,2022-01-09
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,57516.59,Debit,Refund,2020-11-15
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,578191.0,Credit,Refund,2022-04-28
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,830881.52,Credit,Operating Expenses,2021-11-29
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,94077.36,Credit,Purchase,2021-09-15
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,287090.35,Debit,Purchase,2023-06-18
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,30423.87,Debit,Operating Expenses,2022-07-16
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,414729.06,Debit,Miscellaneous,2022-11-18
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,86918.23,Debit,Refund,2021-09-21
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,819893.17,Credit,Purchase,2022-10-30
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,684788.15,Debit,Refund,2020-09-18
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,263062.99,Debit,Sale,2022-12-11
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,376172.89,Credit,Operating Expenses,2023-08-01
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,892274.1,Debit,Sale,2021-05-14
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,503007.07,Credit,Refund,2023-10-09
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,798637.59,Debit,Operating Expenses,2021-12-08
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,437326.49,Debit,Miscellaneous,2022-12-28
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,917275.44,Credit,Miscellaneous,2022-03-31
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,186956.76,Debit,Operating Expenses,2023-05-14
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,246611.92,Credit,Miscellaneous,2022-06-17
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,860535.38,Debit,Operating Expenses,2023-01-05
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,375407.53,Debit,Operating Expenses,2022-04-29
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,657290.52,Credit,Miscellaneous,2021-02-16
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,199495.09,Debit,Refund,2023-01-06
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,328165.76,Credit,Operating Expenses,2021-10-18
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,125973.81,Debit,Refund,2021-09-01
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,619722.88,Credit,Operating Expenses,2022-08-13
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,399090.99,Debit,Refund,2021-08-26
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,777515.71,Debit,Sale,2023-08-14
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,76029.09,Credit,Miscellaneous,2022-08-09
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,549881.25,Debit,Miscellaneous,2023-02-09
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,310486.38,Debit,Miscellaneous,2022-09-13
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,994491.46,Credit,Refund,2023-08-06
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,117854.43,Debit,Miscellaneous,2021-12-19
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,984051.52,Debit,Refund,2022-05-22
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,331690.25,Debit,Miscellaneous,2021-10-29
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,229719.91,Debit,Purchase,2023-06-10
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,745592.67,Debit,Refund,2020-11-04
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,402269.13,Credit,Miscellaneous,2021-05-31
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,502163.6,Debit,Sale,2022-11-20
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,129802.82,Debit,Purchase,2020-10-07
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,418904.54,Debit,Refund,2021-01-27
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,941542.41,Debit,Sale,2023-01-14
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,249490.89,Credit,Operating Expenses,2023-03-25
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,275644.81,Credit,Purchase,2022-03-13
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,212980.81,Credit,Sale,2020-12-28
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,604216.56,Credit,Sale,2021-04-11
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,606814.46,Debit,Refund,2021-04-08
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,935367.68,Debit,Purchase,2023-06-14
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,87401.68,Debit,Operating Expenses,2020-11-17
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,524992.22,Credit,Miscellaneous,2022-07-07
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,795736.44,Debit,Refund,2023-05-05
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,201771.1,Credit,Purchase,2022-10-08
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,980434.24,Credit,Refund,2021-05-30
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,565132.48,Credit,Miscellaneous,2022-04-28
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,75162.13,Credit,Operating Expenses,2023-01-04
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,751073.78,Debit,Miscellaneous,2020-12-05
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,82593.73,Credit,Operating Expenses,2021-10-23
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,651857.69,Debit,Sale,2021-03-08
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,985592.29,Debit,Refund,2023-02-16
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,353344.88,Debit,Sale,2023-04-28
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,716080.53,Debit,Miscellaneous,2021-08-24
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,146375.08,Debit,Purchase,2021-07-03
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,796883.44,Debit,Miscellaneous,2020-12-31
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,934603.33,Credit,Operating Expenses,2022-12-29
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,300872.27,Credit,Sale,2020-11-09
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,741976.84,Credit,Refund,2021-08-24
+James Bridget,330e5a89-513b-4b45-bb55-71b7c3d3d080,950771.44,Credit,Sale,2021-10-07
