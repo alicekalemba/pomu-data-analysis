@@ -76,3 +76,6 @@ can be accepted as an input into the model generated in part 5. Run
 `new_customer_data_processing.ipynb` to create `new_customer_data_encoded.csv` 
 to be used in the ML model. Note this is still in progress (POM-13).
  
+Note: When pushing, avoid pushing newly generated csv files to keep Git diffs
+low in PRs. Use the existing files unless there's new data you need added to them.
+No need to run the generation scripts unless required.
